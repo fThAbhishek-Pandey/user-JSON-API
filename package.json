@@ -1,0 +1,15 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "\"my first api\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
